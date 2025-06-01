@@ -32,7 +32,7 @@ with col2:
 st.markdown("---") # Para separar el titulo de los KPIs, se inserta un paragrafo usando un campo de markdown
 #4° Insertar música: Sin que esta se pare...
 audio1=open("Music.mp3","rb")
-st.write("<REPRODUCEME 🎧🎵> [Gone, Gone, Gone - Phillip Phillips]")
+st.write("<REPRODUCEME 🎧🎵> [DnK - Sonríele a la vida ft. Dani Galera]")
 st.audio(audio1)
 
 # # # # # Función para cargar y reproducir música en un hilo separado
